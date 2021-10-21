@@ -1,4 +1,5 @@
 CACHE MANIFEST
+# Version 1
 
 CACHE:
 Cached_Demo.html
@@ -6,6 +7,7 @@ meow.png
 
 NETWORK:
 html5_Icon.png
+Online.png
 
 FALLBACK:
 Online.png Offline.png
