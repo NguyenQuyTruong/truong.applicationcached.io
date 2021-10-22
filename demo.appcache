@@ -3,3 +3,10 @@ CACHE MANIFEST
 
 CACHE:
 Cached_Demo.html
+meow.png
+
+NETWORK:
+html5_Icon.png
+
+FALLBACK:
+thiennhien.jpg meow.png
